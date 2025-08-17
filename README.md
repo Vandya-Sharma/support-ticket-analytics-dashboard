@@ -15,6 +15,11 @@ The goal is to monitor SLA compliance, resolution efficiency and customer satisf
 
 ---
 
+## 📊 Dashboard Screenshot  
+![Dashboard Screenshot](Screenshot 2025-08-18 at 2.15.49 AM.png)
+
+---
+
 ## 🚀 How to Run
 
 1. Clone the repository  
@@ -22,5 +27,4 @@ The goal is to monitor SLA compliance, resolution efficiency and customer satisf
 ```bash
 pip install -r requirements.txt
 
-## 📊 Dashboard Screenshot  
-![Dashboard Screenshot](Screenshot 2025-08-18 at 2.15.49 AM.png)
+
