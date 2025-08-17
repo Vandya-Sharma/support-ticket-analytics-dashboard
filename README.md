@@ -15,8 +15,8 @@ The goal is to monitor SLA compliance, resolution efficiency and customer satisf
 
 ---
 
-## 📊 Dashboard Screenshot  
-![Dashboard Screenshot](Screenshot 2025-08-18 at 2.15.49 AM.png)
+## 📊 Live Dashboard  
+https://support-ticket-analytics-dashboard-pnxvwjzejxhn7lgdzznrls.streamlit.app/
 
 ---
 
